@@ -1,0 +1,8 @@
+{
+  "name": "متجر عنتر",
+  "description": "نظام إدارة المبيعات والمخزون ونقاط البيع والفواتير الشامل لمتجر عنتر",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
